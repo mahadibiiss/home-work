@@ -47,8 +47,7 @@ section{
     background-image: url(Shapes/Frame\ 59.jpg);
 }
 .third{
-    
-    
+    margin-bottom: 150px;
 }
 .Middle{
     text-align: center;
@@ -69,11 +68,12 @@ section{
     padding-left: 20px;
 }
 .bcc{
-    padding-top: 20px;
+    padding-top: 5px;
     padding-bottom: 5px;
-    margin: 25px;
+    
     box-shadow:10px 10px 10px 10px gray;
     border-radius: 20px;
+    margin-bottom: 150px;
 }
 .b{
     width: 30%;
